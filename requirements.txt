@@ -1,8 +1,7 @@
-tensorflow
-keras
-opencv_python_headless
-ipykernel
-matplotlib
-numpy
 streamlit
-
+tensorflow
+numpy
+Pillow
+streamlit-extras
+matplotlib
+pandas
